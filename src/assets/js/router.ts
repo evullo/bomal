@@ -4,6 +4,7 @@ import AboutView from '../../views/AboutView.vue'
 import GalleryView from '@/views/GalleryView.vue'
 import PositionView from '@/views/PositionView.vue'
 import ContactView from '@/views/ContactView.vue'
+import PricingView from '@/views/PricingView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -22,6 +23,11 @@ const router = createRouter({
       path: '/position',
       name: 'position',
       component: PositionView
+    },
+    {
+      path: '/pricing',
+      name: 'pricing',
+      component: PricingView
     },
     {
       path: '/contact',

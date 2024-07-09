@@ -25,6 +25,8 @@ const toggleMenu = () => {
   <Transition name="slide">
     <div v-show="open" class="bg-orange-100 block absolute z-10 w-1/2 h-[97vh] top-3 drop-shadow-md rounded-r-md md:w-1/4 lg:w-1/6"></div>
   </Transition>
+
+  <div v-show="open" @click="toggleMenu" class="fixed top-0 left-0 w-full h-dvh bg-black opacity-50 z-0"></div>
 </template>
 
 <style scoped>

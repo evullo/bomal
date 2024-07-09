@@ -7,6 +7,7 @@ import PhotoIcon from '@/components/icons/PhotoIcon.vue'
 import LocationIcon from '@/components/icons/LocationIcon.vue'
 import ChatIcon from '@/components/icons/ChatIcon.vue'
 import BookIcon from '@/components/icons/BookIcon.vue'
+import PriceIcon from '@/components/icons/PriceIcon.vue'
 
 const isMenuOpen = ref(false)
 
@@ -32,6 +33,10 @@ const handleToggle = (isOpen: boolean) => {
           <NavItem to="position">
             <LocationIcon />
             Position
+          </NavItem>
+          <NavItem to="pricing">
+            <PriceIcon />
+            Tarifs
           </NavItem>
           <NavItem to="contact">
             <ChatIcon />
