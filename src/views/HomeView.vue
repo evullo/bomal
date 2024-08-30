@@ -8,7 +8,7 @@ import UlHomeComponent from '@/components/UlHomeComponent.vue'
 </script>
 
 <template>
-  <div class="w-11/12 bg-orange-100 mx-auto rounded-md px-4 py-2 my-5 md:w-9/12">
+  <main class="w-11/12 bg-orange-100 mx-auto rounded-md px-4 py-2 my-5 md:w-9/12">
     <section>
       <HeaderOneItem>
         Bienvenue chez Bomal !
@@ -25,7 +25,7 @@ import UlHomeComponent from '@/components/UlHomeComponent.vue'
 
     <section>
       <HeaderTwoItem>
-        Découvrez Nos Produits
+        Découvrez nos produits
       </HeaderTwoItem>
 
       <UlHomeComponent />
@@ -33,7 +33,7 @@ import UlHomeComponent from '@/components/UlHomeComponent.vue'
 
     <section>
       <HeaderTwoItem>
-        Suivez Nous
+        Suivez nous
       </HeaderTwoItem>
 
       <ParagraphItem class="mb-4">
@@ -46,5 +46,5 @@ import UlHomeComponent from '@/components/UlHomeComponent.vue'
         <ButtonItem to="pricing">Nos tarifs</ButtonItem>
       </div>
     </section>
-  </div>
+  </main>
 </template>
