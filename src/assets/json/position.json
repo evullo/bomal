@@ -1,1 +1,86 @@
-{}
+[
+    {
+        "position": "Soumagne haut",
+        "dates": "week-end avant Pâques"
+    },
+    {
+        "position": "Fléron",
+        "dates": "du week-end de Pâques au week-end avant la Pentecôte"
+    },
+    {
+        "position": "Beyne-Heusay",
+        "dates": "week-end de Pentecôte"
+    },
+    {
+        "position": "Aubel",
+        "dates": "2e week-end de Juin"
+    },
+    {
+        "position": "Romsée",
+        "dates": "3e week-end de Juin"
+    },
+    {
+        "position": "Fléron - braderie",
+        "dates": "4e week-end de Juin"
+    },
+    {
+        "position": "Grand-Rechain",
+        "dates": "1er week-end de Juillet"
+    },
+    {
+        "position": "Queue-du-bois",
+        "dates": "2e week-end de Juillet"
+    },
+    {
+        "position": "Bellaire",
+        "dates": "3e week-end de Juillet"
+    },
+    {
+        "position": "Ayeneux",
+        "dates": "4e week-end de Juillet"
+    },
+    {
+        "position": "Retinne",
+        "dates": "1er week-end d’Août"
+    },
+    {
+        "position": "Soumagne haut",
+        "dates": "week-end avant le 15 Août"
+    },
+    {
+        "position": "Cheratte",
+        "dates": "week-end après le 15 Août"
+    },
+    {
+        "position": "Olne",
+        "dates": "dernier week-end d’Août"
+    },
+    {
+        "position": "Soumagne bas",
+        "dates": "3e week-end de Septembre"
+    },
+    {
+        "position": "Thimister",
+        "dates": "4e week-end de Septembre"
+    },
+    {
+        "position": "St-Rémy",
+        "dates": "1er week-end d’Octobre"
+    },
+    {
+        "position": "Ninane",
+        "dates": "3e week-end d’Octobre"
+    },
+    {
+        "position": "Aubel",
+        "dates": "week-end de la St-Hubert"
+    },
+    {
+        "position": "Fléron",
+        "dates": "du 1er week-end d’Octobre au 1er week-end de Décembre"
+    },
+    {
+        "position": "Belle-île en Liège",
+        "dates": "du lundi après St Nicolas au 1er week-end de Janvier"
+    }
+]

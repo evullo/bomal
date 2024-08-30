@@ -1,1 +1,100 @@
-{}
+[
+    {
+        "title": "Croustillons et churros",
+        "quantities": [
+            {
+                "quantity": "5",
+                "price": "3€"
+            },
+            {
+                "quantity": "9",
+                "price": "5€"
+            },
+            {
+                "quantity": "13",
+                "price": "7€"
+            }
+        ]
+    },
+    {
+        "title": "Croustillons et churros au chocolat",
+        "quantities": [
+            {
+                "quantity": "5",
+                "price": "4€"
+            },
+            {
+                "quantity": "9",
+                "price": "6,50€"
+            },
+            {
+                "quantity": "13",
+                "price": "9€"
+            }
+        ]
+    },
+    {
+        "title": "Lackmans",
+        "quantities": [
+            {
+                "quantity": "1",
+                "price": "1,80€"
+            },
+            {
+                "quantity": "5+1",
+                "price": "9€"
+            }
+        ]
+    },
+    {
+        "title": "Beignets aux pommes",
+        "quantities": [
+            {
+                "quantity": "5",
+                "price": "5€"
+            },
+            {
+                "quantity": "10",
+                "price": "9€"
+            }
+        ]
+    },
+    {
+        "title": "Barbe à papa",
+        "quantities": [
+            {
+                "quantity": "petite",
+                "price": "3€"
+            },
+            {
+                "quantity": "moyenne",
+                "price": "6€"
+            },
+            {
+                "quantity": "grande",
+                "price": "10€"
+            }
+        ]
+    },
+    {
+        "title": "Fruits enrobés",
+        "quantities": [
+            {
+                "quantity": "Pommes",
+                "price": "3€"
+            },
+            {
+                "quantity": "Raisins",
+                "price": "3€"
+            },
+            {
+                "quantity": "Fraises",
+                "price": "3,50€"
+            },
+            {
+                "quantity": "Bananes",
+                "price": "3€"
+            }
+        ]
+    }
+]
