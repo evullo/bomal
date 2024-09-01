@@ -4,7 +4,7 @@ export interface NavItemProps {
   to: RouteRecordName
 }
 
-export interface PositionRowItemProps {
-  position: string
-  dates: string
+export interface RowItemProps {
+  leftItem: string
+  rightItem: string
 }
