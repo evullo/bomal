@@ -1,86 +1,86 @@
 [
     {
         "position": "Soumagne haut",
-        "dates": "week-end avant Pâques"
+        "dates": "WE avant Pâques"
     },
     {
         "position": "Fléron",
-        "dates": "du week-end de Pâques au week-end avant la Pentecôte"
+        "dates": "WE de Pâques au WE avant Pentecôte"
     },
     {
         "position": "Beyne-Heusay",
-        "dates": "week-end de Pentecôte"
+        "dates": "WE de Pentecôte"
     },
     {
         "position": "Aubel",
-        "dates": "2e week-end de Juin"
+        "dates": "2e WE de Juin"
     },
     {
         "position": "Romsée",
-        "dates": "3e week-end de Juin"
+        "dates": "3e WE de Juin"
     },
     {
         "position": "Fléron - braderie",
-        "dates": "4e week-end de Juin"
+        "dates": "4e WE de Juin"
     },
     {
         "position": "Grand-Rechain",
-        "dates": "1er week-end de Juillet"
+        "dates": "1er WE de Juillet"
     },
     {
         "position": "Queue-du-bois",
-        "dates": "2e week-end de Juillet"
+        "dates": "2e WE de Juillet"
     },
     {
         "position": "Bellaire",
-        "dates": "3e week-end de Juillet"
+        "dates": "3e WE de Juillet"
     },
     {
         "position": "Ayeneux",
-        "dates": "4e week-end de Juillet"
+        "dates": "4e WE de Juillet"
     },
     {
         "position": "Retinne",
-        "dates": "1er week-end d’Août"
+        "dates": "1er WE d’Août"
     },
     {
         "position": "Soumagne haut",
-        "dates": "week-end avant le 15 Août"
+        "dates": "WE avant le 15 Août"
     },
     {
         "position": "Cheratte",
-        "dates": "week-end après le 15 Août"
+        "dates": "WE après le 15 Août"
     },
     {
         "position": "Olne",
-        "dates": "dernier week-end d’Août"
+        "dates": "dernier WE d’Août"
     },
     {
         "position": "Soumagne bas",
-        "dates": "3e week-end de Septembre"
+        "dates": "3e WE de Septembre"
     },
     {
         "position": "Thimister",
-        "dates": "4e week-end de Septembre"
+        "dates": "4e WE de Septembre"
     },
     {
         "position": "St-Rémy",
-        "dates": "1er week-end d’Octobre"
+        "dates": "1er WE d’Octobre"
     },
     {
         "position": "Ninane",
-        "dates": "3e week-end d’Octobre"
+        "dates": "3e WE d’Octobre"
     },
     {
         "position": "Aubel",
-        "dates": "week-end de la St-Hubert"
+        "dates": "WE de la St-Hubert"
     },
     {
         "position": "Fléron",
-        "dates": "du 1er week-end d’Octobre au 1er week-end de Décembre"
+        "dates": "1er WE d’Octobre au 1er WE de Décembre"
     },
     {
         "position": "Belle-île en Liège",
-        "dates": "du lundi après St Nicolas au 1er week-end de Janvier"
+        "dates": "Lundi après St Nicolas au 1er WE de Janvier"
     }
 ]
