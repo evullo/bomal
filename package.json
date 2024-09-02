@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev::expose": "vite --host",
     "dev::css": "vite & npx tailwindcss -i ./src/assets/css/input.css -o ./src/assets/css/main.css --watch",
     "build": "run-p type-check \"build-only {@}\" --",
     "preview": "vite preview",
@@ -20,7 +21,6 @@
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",
     "@tsconfig/node20": "^20.1.4",
-    "@types/node": "^20.14.5",
     "@vitejs/plugin-vue": "^5.0.5",
     "@vitejs/plugin-vue-jsx": "^4.0.0",
     "@vue/eslint-config-prettier": "^9.0.0",

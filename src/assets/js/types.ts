@@ -8,3 +8,12 @@ export interface RowItemProps {
   leftItem: string
   rightItem: string
 }
+
+export interface CarouselItemProps {
+  src: string,
+}
+
+export interface CarouselProps {
+  images: string[],
+  startIndex: number,
+}
