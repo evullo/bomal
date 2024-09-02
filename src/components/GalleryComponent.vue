@@ -1,10 +1,15 @@
 <script setup lang="ts">
-import images from '@/assets/js/images'
-import { ref } from 'vue'
+import loadImages from '@/assets/js/images'
+import { ref, onMounted } from 'vue'
 import CarouselComponent from '@/components/CarouselComponent.vue'
 
 const currentIndex = ref(0)
 const showCarousel = ref(false)
+const images = ref<string[]>([])
+
+onMounted(async () => {
+  images.value = await loadImages()
+})
 
 function openCarousel(index: number) {
   currentIndex.value = index
