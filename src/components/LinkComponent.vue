@@ -8,7 +8,7 @@ defineProps<LinkProps>()
 </script>
 
 <template>
-  <div class="flex flex-col items-center">
+  <div class="flex flex-col items-center md:w-1/2 md:mx-auto">
     <HeaderTwoItem>
       <slot name="header"></slot>
     </HeaderTwoItem>
