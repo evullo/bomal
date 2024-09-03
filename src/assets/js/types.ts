@@ -10,10 +10,14 @@ export interface RowItemProps {
 }
 
 export interface CarouselItemProps {
-  src: string,
+  src: string
 }
 
 export interface CarouselProps {
-  images: string[],
-  startIndex: number,
+  images: string[]
+  startIndex: number
+}
+
+export interface LinkProps {
+  linkTo: string
 }

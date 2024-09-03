@@ -912,6 +912,10 @@ video {
   border-top-width: 1px;
 }
 
+.border-b {
+  border-bottom-width: 1px;
+}
+
 .border-dotted {
   border-style: dotted;
 }
